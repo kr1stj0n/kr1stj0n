@@ -1,42 +1,28 @@
-### Hi there 👋
 
-<!--
-**kr1stj0n/kr1stj0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
+<p align="center">
+<a href="https://www.linkedin.com/in/kciko"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+</p>
+<p align="center">
+<a href="https://www.buymeacoffee.com/kr1stj0n" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+</p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=kr1stj0n&style=flat-square&color=blue" alt=""></p>
 
-Here are some ideas to get you started:
+<h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
-<br>
+### :man_technologist: &nbsp;About Me :
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="200"/>
-</div>
+I am a Ph.D. Candidate <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> at The University of Oslo.
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/kciko/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <br>
-  <a href="https://www.buymeacoffee.com/kr1stj0n">
-    <img src="https://img.shields.io/badge/BuyMeACoffee-yellow?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="BuyMeACoffee Badge"/>
-  </a>
-</div>
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-kr1stj0n-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kciko)
 
-<div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=kr1stj0n&style=flat-square&color=blue" alt=""/>
-</div>
+---
 
-#### GitHub Stats
+### 🔥 &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kr1stj0n&theme=dark&background=000000)](https://git.io/streak-stats)
 
-#### Top Langs
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kr1stj0n&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
