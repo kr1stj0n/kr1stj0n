@@ -4,6 +4,9 @@
 <a href="https://www.linkedin.com/in/kr1stj0n"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
 <p align="center">
+<a href="https://www.researchgate.net/profile/Kristjon_Ciko"><img src="https://img.shields.io/badge/ResearchGate-green?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate Badge"></a>
+</p>
+<p align="center">
 <a href="https://www.buymeacoffee.com/kr1stj0n" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=kr1stj0n&style=flat-square&color=blue" alt=""></p>
